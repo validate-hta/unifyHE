@@ -15,4 +15,4 @@ he_workflow <- workflow() %>%
   cea()  # cost-effectiveness analysis
 ```
 
-See [documentation]()
+See [documentation](https://github.com/validate-hta/unifyHE/blob/main/MRC-HE-DSL-mock_user_guide.md)
